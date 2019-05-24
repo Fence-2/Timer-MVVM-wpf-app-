@@ -1,0 +1,33 @@
+﻿<Window x:Class="Timer__MVVM_proj_by_Dmitrii_Chistyakov_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Timer__MVVM_proj_by_Dmitrii_Chistyakov_"
+        xmlns:vm="clr-namespace:Timer__MVVM_proj_by_Dmitrii_Chistyakov_.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="2*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Label Content="{Binding LabelText}" Grid.ColumnSpan="4" HorizontalAlignment="Right" FontSize="120" />
+        <Button Command="{Binding start_Command}"  Content="Старт/возобновить" Grid.Row="1" IsDefault="True" ToolTip="Запустить секундомер"  />
+        <Button Command="{Binding pause_Command}" Content="Пауза" Grid.Row="1" Grid.Column="1" ToolTip="Остановить секундомер" />
+        <Button Command="{Binding lap_Command}" Content="Круг" Grid.Row="1" Grid.Column="2" ToolTip="Добавить круг"  />
+        <Button Command="{Binding reset_Command}" Content="Сброс" Grid.Row="1" Grid.Column="3" ToolTip="Сбросить секундомер" />
+        <ListBox ItemsSource="{Binding ListBoxItems}" Grid.Row="2" Grid.ColumnSpan="4"  />
+    </Grid>
+</Window>

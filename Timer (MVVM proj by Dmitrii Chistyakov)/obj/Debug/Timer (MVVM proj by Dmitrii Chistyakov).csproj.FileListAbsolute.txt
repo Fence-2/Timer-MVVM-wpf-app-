@@ -1,0 +1,15 @@
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\bin\Debug\Timer (MVVM proj by Dmitrii Chistyakov).exe.config
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\bin\Debug\Timer (MVVM proj by Dmitrii Chistyakov).exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\bin\Debug\Timer (MVVM proj by Dmitrii Chistyakov).pdb
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov).csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\App.g.cs
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov)_MarkupCompile.cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov)_MarkupCompile.lref
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Views\MainWindow.baml
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov).g.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer__MVVM_proj_by_Dmitrii_Chistyakov_.Properties.Resources.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov).csproj.GenerateResource.Cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov).exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\Timer (MVVM proj by Dmitrii Chistyakov)\Timer (MVVM proj by Dmitrii Chistyakov)\obj\Debug\Timer (MVVM proj by Dmitrii Chistyakov).pdb
